@@ -4,4 +4,4 @@ Jest to aplikacja, która zawiera kalkulator, checklisty oraz quiz geograficzny.
 
 ![Poster_Project_Maze_4-1](https://user-images.githubusercontent.com/72690612/102531752-220c2400-40a3-11eb-81ab-a0f8ec8d142c.jpg)
 
-[Sprawdź równierz!!!](https://lukaszsuchan.github.io/)
+[Sprawdź ten link!!!](https://lukaszsuchan.github.io/)
