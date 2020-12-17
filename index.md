@@ -1,10 +1,6 @@
-## Welcome to GitHub Pages
+### Project-Maze (nazwa nie świadczy o projekcie)
 
-You can use the [editor on GitHub](https://github.com/TymoteuszTelinga/TymoteuszTelinga.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Jest to aplikacja, która zawiera kalkulator, checklisty oraz quiz geograficzny. Projekt powstał z myślą o uczniach i codziennych problemach, z jakimi muszą się zmagać. Projekt Maze wychodzi naprzeciw oczekiwaniom i oferuje pomoc na różnych płaczszyznach. Aplikacja posiada prosty i przejrzysty interfejs graficzny, co sprawia, że jest świetna dla każdego, nie tylko ucznia.
 
 ### Jekyll Themes
 
